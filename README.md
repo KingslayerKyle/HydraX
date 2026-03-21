@@ -52,6 +52,7 @@ HydraX can decompile/export the following asset types:
 | beam                             | Misc                             |
 | weapon                           | Weapon                           |
 | stringtable                      | Meta Data                        |
+| fonticon                         | Meta Data                        |
 
 For assets that are exported to GDTs, Hydra will bundle them into different GDTs in the source_data folder of the export directory.
 
